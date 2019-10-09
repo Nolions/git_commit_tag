@@ -1,6 +1,4 @@
-# git_commit_tag
-
-git commit 建議標籤
+# git commit 建議標籤
 
 ## 標籤
 
